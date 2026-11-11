@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** SikuliX1 — https://github.com/oculix-org/SikuliX1
-- **Original authors:** Copyright (c) 2018 Raimund Hocke; The above copyright notice and this permission notice shall be included in all; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+- **Original authors:** Copyright (c) 2018 Raimund Hocke
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** a3bceb5042d3708d123749362a5b1b09184c8d91 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
